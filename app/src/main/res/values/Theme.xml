@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style
+		name="SubTitleTheme"
+		parent="android:Theme">
+		<item name="android:windowTitleSize">@dimen/SubTitleTheme_Height</item>
+		<item name="android:windowTitleBackgroundStyle">@android:color/transparent</item>
+		<item name="android:text"></item>
+	</style>
+	<dimen name="SubTitleTheme_Height">30dp</dimen>
+</resources>

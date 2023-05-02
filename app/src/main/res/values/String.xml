@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="EXCEPTION_YEAR">지원되지 않는 년도 입니다.</string>
+    <string name="EXCEPTION_DAY">지원되지 않는 날짜 입니다.</string>
+    <string name="YEAR_MONTH_FORMAT">yyyy년 M월 d일</string>
+</resources>

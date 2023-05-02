@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_weight="1"
+        android:background="@drawable/line_block"
+        android:gravity="center"
+        android:text="@string/Sunday"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        tools:ignore="SpUsage" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_weight="1"
+        android:background="@drawable/line_block"
+        android:gravity="center"
+        android:text="@string/Monday"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        tools:ignore="SpUsage" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_weight="1"
+        android:background="@drawable/line_block"
+        android:gravity="center"
+        android:text="@string/Tuesday"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        tools:ignore="SpUsage" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_weight="1"
+        android:background="@drawable/line_block"
+        android:gravity="center"
+        android:text="@string/Wednesday"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        tools:ignore="SpUsage" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_weight="1"
+        android:background="@drawable/line_block"
+        android:gravity="center"
+        android:text="@string/Thursday"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        tools:ignore="SpUsage" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_weight="1"
+        android:background="@drawable/line_block"
+        android:gravity="center"
+        android:text="@string/Friday"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        tools:ignore="SpUsage" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_weight="1"
+        android:background="@drawable/line_block"
+        android:gravity="center"
+        android:text="@string/Saturday"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        tools:ignore="SpUsage" />
+</LinearLayout>
